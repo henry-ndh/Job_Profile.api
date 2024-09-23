@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Udemy.DotNetWebAPI.props" />
+</Project>

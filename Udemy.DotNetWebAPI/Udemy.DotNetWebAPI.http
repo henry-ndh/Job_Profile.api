@@ -1,0 +1,6 @@
+@Udemy.DotNetWebAPI_HostAddress = http://localhost:5102
+
+GET {{Udemy.DotNetWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
